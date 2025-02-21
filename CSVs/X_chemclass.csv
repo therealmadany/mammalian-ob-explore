@@ -1,0 +1,49 @@
+,0
+0,explicit carboxylic acid
+1,explicit and possible carboxylic acid
+2,possible carboxylic acid
+3,small explicit carboxylic acid (5C or less)
+4,large explicit carboxylic acid (6C or more)
+5,alcohol (not phenol)
+6,primary alcohol
+7,small aliphatic primary alcohol (8C or less)
+8,large aliphatic primary alcohol (9C or more)
+9,aliphatic (not alicyclic) secondary alcohol
+10,ester (not lactone)
+11,aliphatic ester (not alicyclic)
+12,small aliphatic ester (8C or less)
+13,large aliphatic ester (9C or more)
+14,aromatic ester
+15,aldehyde
+16,aliphatic aldehyde
+17,small aliphatic aldehyde (8C or less)
+18,large aliphatic aldehyde (9C or more)
+19,aromatic aldehyde
+20,ether
+21,amine
+22,sulfur-containing compounds
+23,halogen-containing compounds
+24,oxime
+25,ketone
+26,aliphatic ketone (not alicyclic)
+27,small aliphatic ketone (8C or less)
+28,large aliphatic ketone (9C or more)
+29,aliphatic or alicyclic- multiple O-containing functional groups
+30,aliphatic or alicyclic hydrocarbons
+31,alkanes
+32,alkenes
+33,alkynes
+34,aromatics
+35,alkyl benzenes
+36,aromatics with O-containing substituents
+37,phenols
+38,alicyclics
+39,polycyclics
+40,heterocyclics
+41,heterocyclics with N in ring
+42,pyrazines
+43,pyridines
+44,heterocyclics with S in ring
+45,heterocyclics with O in ring
+46,lactone
+47,furan
