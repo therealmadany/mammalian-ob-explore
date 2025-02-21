@@ -243,7 +243,7 @@ st.markdown(
     Select different codebook sizes to observe how increasing the number of modules refines 
     the spatial encoding of odors.""")
 
-st.write(f"Currently, the alphabet with **{k}** components is used and displayed are the three compounds **{selected_odorant1}** (ID: {odorant_to_index[selected_odorant1]}), **{selected_odorant2}** (ID: {odorant_to_index[selected_odorant2]}), and **{selected_odorant3}** (ID: {odorant_to_index[selected_odorant3]}).")
+st.write(f"Currently, the alphabet with **{selected_k}** components is used and displayed are the three compounds **{selected_odorant1}** (ID: {odorant_to_index[selected_odorant1]}), **{selected_odorant2}** (ID: {odorant_to_index[selected_odorant2]}), and **{selected_odorant3}** (ID: {odorant_to_index[selected_odorant3]}).")
 # textual sanity check
 
 # generate the main figure and display it here
