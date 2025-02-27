@@ -14,7 +14,7 @@ H_sparse = pd.read_csv(f'./CSVs/matrix_H_9_sparse.csv', index_col = 0)
 # The columns chosen here from H_sparse (= odorants) were manually selected by me
 # In an embedded program, the IDs of the odorants would come, for example, from user selection
 # Column numbers (Note: the first column has column ID 0)
-ind1 = 116 # Corresponds to the first column
+ind1 = 0 # Corresponds to the first column
 ind2 = 136
 # Variable assignment
 ind3 = 19
