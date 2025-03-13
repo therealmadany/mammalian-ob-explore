@@ -19,6 +19,11 @@ Streamlit is a Python framework that allows you to build interactive web applica
 
 ---
 
+Here is a link to a running version of this app: 
+https://mammalian-ob-explore.streamlit.app/
+
+---
+
 ## Using This Application
 
 This application allows users to manipulate parameters in the left-hand menu to explore the decomposition of three different compounds from a set of 143 compounds. The decomposition is analyzed along four different decoding alphabets with varying alphabet sizes of **k = 2, 4, 6, and 9**.
