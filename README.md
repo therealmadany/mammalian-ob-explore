@@ -22,10 +22,6 @@ Streamlit is a Python framework that allows you to build interactive web applica
 Here is a link to a running version of this app: 
 https://mammalian-ob-explore.streamlit.app/
 
-<iframe
-  src="https://mammalian-ob-explore.streamlit.app?embed=true"
-  style="height: 450px; width: 100%;"
-></iframe>
 ---
 
 ## Using This Application
